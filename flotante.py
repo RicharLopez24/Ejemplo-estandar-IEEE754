@@ -1,11 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-UNIVERSIDAD AUTONOMA DEL ESTADO DE MEXICO
-CU UAEM ZUMPANGO
-UA: METODOS NUMERICOS
-TEMA: NUMEROS COMA FLOTANTE
-ALUMNO: ANGEL RICARDO LOPEZ JIMENEZ
+ANGEL RICARDO LOPEZ JIMENEZ
 DESCRIPCION: ingresar un numero decimal o binario y pasarlo al
 estandar IEEE754 y regresar el numero obtenido en ese estandar al original
 
